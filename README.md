@@ -15,7 +15,7 @@ OR Leave a comment on the Template Overview Page at <a href="/">agungrifna</a>. 
 
 # Credits:
 <ul>
-    <li>Bootstrap 5</li>
+    <li>Bootstrap 5.2.2</li>
     <li>jQuery</li>
     <li>jQuery easing</li>
     <li>Magnific Popup</li>
