@@ -7,19 +7,20 @@ Click this link for a live demo <a href="/">View a Demo here</a>.
 # How to Use
 You can read details documentation here - <a href="/">View Documentation Here</a>.
 # Bugs and Issues
-Have an issue with this template? a href="/">Open a new issue here</a>.
-OR Leave a comment on the Template Overview Page at agungrifna for general inquiry.
+OR Leave a comment on the Template Overview Page at <a href="/">agungrifna</a>. for general inquiry.
 # Credits:
-Bootstrap 5
-jQuery
-jQuery easing
-Magnific Popup
-Font Awesome
-Highlight Js
-Unsplash
+<ul>
+    <li>Bootstrap 5</li>
+    <li>jQuery</li>
+    <li>jQuery easing</li>
+    <li>Magnific Popup</li>
+    <li>Font Awesome</li>
+    <li>Highlight Js</li>
+    <li>unsplash</li>
+</ul>
 # Created By:
-agungrifna
+<a href="/">agungrifna</a>.
 # Donations & Support
-My Brain needs two urgent coffees to continue working. Buy one or two coffees for me here: https://opencollective.com/aradocs
+My Brain needs two urgent coffees to continue working. Buy one or two coffees for me <a href="/">here</a>.
 # License:
 See the LICENSE file for license rights and limitations (MIT).
